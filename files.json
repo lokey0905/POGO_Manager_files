@@ -1,0 +1,27 @@
+{
+  "gameGuardian": {
+    "title": "GG修改器",
+    "url": "https://gameguardian.net/forum/files/file/2-gameguardian/",
+    "isIntent": false
+  },
+  "packageDisablerPro": {
+    "title": "Package Disabler Pro",
+    "url": "https://apkcombo.com/tw/package-disabler-pro-all-android/com.ospolice.packagedisablerpro/download/apk",
+    "isIntent": false
+  },
+  "afWall": {
+    "title": "AFWall+ 防火牆",
+    "url": "https://github.com/ukanth/afwall/releases/latest",
+    "isIntent": false
+  },
+  "splitScreen": {
+    "title": "split screen 分割畫面app",
+    "url": "https://www.mediafire.com/file/ufyvz2dm6inulxj/com.github.ericytsang.multiwindow.app.android.apk/file",
+    "isIntent": false
+  },
+  "island": {
+    "title": "Island 創建雙開環境",
+    "url": "https://github.com/oasisfeng/island/releases/lateste",
+    "isIntent": false
+  }
+}
