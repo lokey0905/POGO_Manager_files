@@ -21,7 +21,12 @@
   },
   "island": {
     "title": "Island 創建雙開環境",
-    "url": "https://github.com/oasisfeng/island/releases/lateste",
+    "url": "https://github.com/oasisfeng/island/releases/latest",
     "isIntent": false
+  },
+  "chromeSetting": {
+    "title": "Chrome App設定",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.android.chrome;end",
+    "isIntent": true
   }
 }
