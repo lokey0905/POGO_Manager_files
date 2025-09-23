@@ -24,9 +24,29 @@
     "url": "https://github.com/oasisfeng/island/releases/latest",
     "isIntent": false
   },
-  "chromeSetting": {
-    "title": "Chrome App設定",
-    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.android.chrome;end",
-    "isIntent": true
+  "Magisk-v27001": {
+    "title": "MagiskDelta v27001 apk",
+    "url": "https://www.mediafire.com/file/si7xtzx5bg315lw/Magisk-v27001.apk/file",
+    "isIntent": false
+  },
+  "Magisk-v27.2-kitsune-4": {
+    "title": "MagiskDelta v27.2-kitsune-4 apk",
+    "url": "https://github.com/1q23lyc45/KitsuneMagisk/releases/download/v27.2-kitsune-4/app-debug.apk",
+    "isIntent": false
+  },
+  "Play-Integrity-Fork": {
+    "title": "Magisk模組 - Play Integrity Fork",
+    "url": "https://github.com/osm0sis/PlayIntegrityFork/releases/latest",
+    "isIntent": false
+  },
+  "lsposed": {
+    "title": "Magisk模組 - LSPosed-v1.9.2-7291",
+    "url": "https://github.com/re-zero001/LSPosed-Irena/actions/runs/17607134093/artifacts/3972852813",
+    "isIntent": false
+  },
+  "ARCore": {
+    "title": "Magisk模組 - ARCore修補包",
+    "url": "https://www.celsoazevedo.com/files/random/ARCore_Playground_Patcher-v2.1.zip",
+    "isIntent": false
   }
 }
