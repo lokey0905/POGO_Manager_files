@@ -39,6 +39,11 @@
     "url": "https://github.com/osm0sis/PlayIntegrityFork/releases/latest",
     "isIntent": false
   },
+  "Play-Integrity-Fork-A13+": {
+    "title": "Magisk模組 - Play Integrity Fork 修復安卓13+",
+    "url": "https://github.com/lokey0905/PlayIntegrityFork/actions/runs/18057050491/artifacts/4121371456",
+    "isIntent": false
+  },
   "lsposed": {
     "title": "Magisk模組 - LSPosed-v1.9.2-7291",
     "url": "https://github.com/re-zero001/LSPosed-Irena/actions/runs/17607134093/artifacts/3972852813",
