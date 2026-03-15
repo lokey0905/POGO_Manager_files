@@ -63,5 +63,40 @@
     "title": "Magisk模組 - ARCore修補包",
     "url": "https://www.celsoazevedo.com/files/random/ARCore_Playground_Patcher-v2.1.zip",
     "isIntent": false
+  },
+  "androidSettings": {
+    "title": "系統設定",
+    "url": "com.android.settings/.Settings",
+    "isIntent": true
+  },
+  "chromeSetting": {
+    "title": "Chrome App設定",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.android.chrome;end",
+    "isIntent": true
+  },
+  "openFilePicker": {
+    "title": "開啟系統內建檔案瀏覽器",
+    "url": "intent:#Intent;action=android.intent.action.OPEN_DOCUMENT;category=android.intent.category.OPENABLE;type=*/*;end",
+    "isIntent": true
+  },
+  "openPokemonGoAppInfo": {
+  "title": "寶可夢 App 管理頁面",
+  "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pokemongo;end",
+  "isIntent": true
+  },
+  "openPokemonGoSamsungAppInfo": {
+    "title": "寶可夢三星版 (ares) 管理頁面",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pokemongo.ares;end",
+    "isIntent": true
+  },
+  "openMonsterHunterNowAppInfo": {
+    "title": "魔物獵人 Now 管理頁面",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.monsterhunter;end",
+    "isIntent": true
+  },
+  "openPikminBloomAppInfo": {
+    "title": "皮克敏 Bloom 管理頁面",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pikmin;end",
+    "isIntent": true
   }
 }
