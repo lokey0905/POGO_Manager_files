@@ -75,13 +75,8 @@
     "isIntent": true
   },
   "openFilePicker": {
-    "title": "開啟檔案瀏覽器",
-    "url": "intent:#Intent;action=android.intent.action.OPEN_DOCUMENT_TREE;end",
-    "isIntent": true
-  },
-  "openAndroidDataTry": {
-    "title": "嘗試開啟 Android/data",
-    "url": "intent:#Intent;action=android.intent.action.OPEN_DOCUMENT_TREE;data=content://com.android.externalstorage.documents/tree/primary%3AAndroid%2Fdata;end",
+    "title": "開啟系統內建檔案瀏覽器",
+    "url": "intent:#Intent;action=android.intent.action.OPEN_DOCUMENT;category=android.intent.category.OPENABLE;type=*/*;end",
     "isIntent": true
   }
 }
