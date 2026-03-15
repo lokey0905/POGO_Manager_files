@@ -1,4 +1,14 @@
 {
+  "shungo": {
+    "title": "Shungo",
+    "url": "https://shungo.app/shungo.apk",
+    "isIntent": false
+  },
+  "pogoplusle": {
+    "title": "捕捉手環自動確認",
+    "url": "https://github.com/Mygod/pogoplusle/releases/latest",
+    "isIntent": false
+  },
   "gameGuardian": {
     "title": "GG修改器",
     "url": "https://gameguardian.net/forum/files/file/2-gameguardian/",
