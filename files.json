@@ -63,5 +63,15 @@
     "title": "Magisk模組 - ARCore修補包",
     "url": "https://www.celsoazevedo.com/files/random/ARCore_Playground_Patcher-v2.1.zip",
     "isIntent": false
+  },
+  "androidSettings": {
+    "title": "系統設定",
+    "url": "com.android.settings/.Settings",
+    "isIntent": true
+  },
+  "chromeSetting": {
+    "title": "Chrome App設定",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.android.chrome;end",
+    "isIntent": true
   }
 }
