@@ -78,5 +78,25 @@
     "title": "開啟系統內建檔案瀏覽器",
     "url": "intent:#Intent;action=android.intent.action.OPEN_DOCUMENT;category=android.intent.category.OPENABLE;type=*/*;end",
     "isIntent": true
+  },
+  "openPokemonGoAppInfo": {
+  "title": "寶可夢 App 管理頁面",
+  "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pokemongo;end",
+  "isIntent": true
+  },
+  "openPokemonGoSamsungAppInfo": {
+    "title": "寶可夢三星版 (ares) 管理頁面",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pokemongo.ares;end",
+    "isIntent": true
+  },
+  "openMonsterHunterNowAppInfo": {
+    "title": "魔物獵人 Now 管理頁面",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.monsterhunter;end",
+    "isIntent": true
+  },
+  "openPikminBloomAppInfo": {
+    "title": "皮克敏 Bloom 管理頁面",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pikmin;end",
+    "isIntent": true
   }
 }
