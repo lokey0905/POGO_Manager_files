@@ -64,6 +64,16 @@
     "url": "https://www.celsoazevedo.com/files/random/ARCore_Playground_Patcher-v2.1.zip",
     "isIntent": false
   },
+  "joystickBeta": {
+    "title": "GPS Joystick 5.2.0 測試版",
+    "url": "https://www.mediafire.com/file/pmvz2t47tvgsopl/gpsjoystick-lokey0905-arm64-v8a-5.2.0.signed.apk/file",
+    "isIntent": false
+  },
+  "joystickOld": {
+    "title": "GPS Joystick 4.5.3 穩定版",
+    "url": "https://www.mediafire.com/file/nuuj6io2dbzaml1/gpsjoystick_lokey_new64.apk.old.apk/file",
+    "isIntent": false
+  },
   "androidSettings": {
     "title": "系統設定",
     "url": "com.android.settings/.Settings",
