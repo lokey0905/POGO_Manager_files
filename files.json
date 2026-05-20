@@ -55,8 +55,8 @@
     "isIntent": false
   },
   "lsposed": {
-    "title": "Magisk模組 - LSPosed-v1.9.2-7291",
-    "url": "https://github.com/re-zero001/LSPosed-Irena/actions/runs/17607134093/artifacts/3972852813",
+    "title": "Magisk模組 - LSPosed-v2.0.0-7316-Irena",
+    "url": "https://www.mediafire.com/file/ozi2l0alzyf7f7d/LSPosed-v2.0.0-7316-Irena-release.zip/file",
     "isIntent": false
   },
   "ARCore": {
@@ -65,7 +65,7 @@
     "isIntent": false
   },
   "joystickLastst": {
-    "title": "GPS Joystick 5.3.0 測試版",
+    "title": "GPS Joystick 5.3.0 最新版",
     "url": "https://www.mediafire.com/file/sitnzvqxml3gztg/gpsjoystick-unlocked-arm64-v8a-5.3.0-vip-signed.apk/file",
     "isIntent": false
   },
