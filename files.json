@@ -31,7 +31,7 @@
   },
   "island": {
     "title": "Island 創建雙開環境",
-    "url": "https://github.com/oasisfeng/island/releases/latest",
+    "url": "https://github.com/oasisfeng/island/releases/tag/v6.4.2",
     "isIntent": false
   },
   "Magisk-v27001": {
@@ -49,9 +49,9 @@
     "url": "https://github.com/osm0sis/PlayIntegrityFork/releases/latest",
     "isIntent": false
   },
-  "Play-Integrity-Fork-A13+": {
-    "title": "Magisk模組 - Play Integrity Fork 修復安卓13+",
-    "url": "https://www.mediafire.com/file/9q7m2cjp7vtlala/PlayIntegrityFork-CI_%2523494.zip/file",
+  "Play-Integrity-inject": {
+    "title": "Magisk模組 - Play Integrity inject",
+    "url": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest",
     "isIntent": false
   },
   "lsposed": {
@@ -95,9 +95,9 @@
     "isIntent": true
   },
   "openPokemonGoAppInfo": {
-  "title": "寶可夢 App 管理頁面",
-  "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pokemongo;end",
-  "isIntent": true
+    "title": "寶可夢 App 管理頁面",
+    "url": "intent:#Intent;action=android.settings.APPLICATION_DETAILS_SETTINGS;data=package:com.nianticlabs.pokemongo;end",
+    "isIntent": true
   },
   "openPokemonGoSamsungAppInfo": {
     "title": "寶可夢三星版 (ares) 管理頁面",
