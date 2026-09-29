@@ -1,6 +1,11 @@
 {
+  "FitnessHooks": {
+    "title": "Fitness Hooks 直接增加步數APP 支援A9+",
+    "url": "https://github.com/lokey0905/Fitness-Hooks/releases/download/v2.1.0/app-debug.apk",
+    "isIntent": false
+  },
   "PikWalk": {
-    "title": "PikWalk 直接增加步數APP 支援A14",
+    "title": "PikWalk",
     "url": "https://github.com/qooabcqqq-cmd/Autocool-Download/releases/download/1/PikWalk-v1.3.2.apk",
     "isIntent": false
   },
